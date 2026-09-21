@@ -150,7 +150,7 @@
 - **Storage account** — conteneur qui regroupe Blob, Files, Queue et Table ; nom **unique**, 3-24 caractères, minuscules et chiffres.
 - **Blob Storage** — stockage d'**objets** (fichiers non structurés).
 - **Container** — dossier de premier niveau **d'un compte Blob**.
-- **Block / Append / Page blob** — fichiers classiques / journaux à ajouter en fin / disques de VM.
+- **Blob** — fichiers classiques / journaux à ajouter en fin / disques de VM.
 - **Azure Files** — **partage de fichiers** SMB ou NFS hébergé dans Azure.
 - **Queue Storage** — file de **messages** entre composants.
 - **Table Storage** — base **NoSQL** clé-valeur.
